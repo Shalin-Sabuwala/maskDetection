@@ -1,4 +1,4 @@
-# maskDetection
+# maskDetection using TFOD
 ## Installation steps
 >pip install -r requirements.txt
 
